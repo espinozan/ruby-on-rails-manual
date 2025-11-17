@@ -668,7 +668,7 @@ rails db:seed (con cuidado)
 
 ---
 
-## 🎓 **EXPLICACIÓN FEYNMAN: ¿POR QUÉ ESTA ESTRUCTURA?**
+## 🎓 **EXPLICACIÓN: ¿POR QUÉ ESTA ESTRUCTURA?**
 
 **Principio**: "Si no puedes explicarlo simple, no lo entiendes suficientemente bien"
 
@@ -685,7 +685,7 @@ Cada comando explica:
 3. **CUÁNDO** (casos de uso específicos)
 4. **CÓMO** (ejemplos prácticos)
 
-### **Ejemplo Feynman**:
+### **Ejemplo**:
 `rails db:migrate` no es solo "ejecuta migraciones", es:
 - **Qué**: Aplica cambios al esquema de BD
 - **Por qué**: Para que tu código y BD estén sincronizados  
